@@ -1,4 +1,7 @@
-# python-bot in Twitter
+# Twitter-Bot
+
+<b>Languages Used :</b>Python
+
 ## Features Currently available:
 <pre>
     1) Automatic retweet, like and follow

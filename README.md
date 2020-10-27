@@ -7,12 +7,13 @@
     4) Find people and information about them
 </pre>
 <h1><u>Installing Instructions</h1></u>
-<code>
+<code><pre>
 git clone https://github.com/ashwani-rathee/Twitter-Bot.git
 cd Twitter-Bot
 #Update the credentials you found from your Twitter Developer Website
 pip install requirements.txt
 python3 Twitter-Bot.py
+</pre>
 </code>
 ```python
 import numpy as np
@@ -24,7 +25,8 @@ We fine-tuned the GPT-2 language model (345 and 124 million parameters) on quote
 Some of these are funny, some are profound, some are dark in a way that make us pause for a second.
 
 <h1>Contributors</h1>
-See [Contributions.md](https://github.com/ashwani-rathee/Twitter-Bot/blob/main/contributions.md)
+See ![Contributions.md](https://github.com/ashwani-rathee/Twitter-Bot/blob/main/contributions.md)
+<br>
 <ol>
     <li>Ashwani Rathee</li>
     <li>Akshat Gupta</li>

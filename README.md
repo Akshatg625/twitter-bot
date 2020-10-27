@@ -7,13 +7,13 @@
     4) Find people and information about them
 </pre>
 <h1><u>Installing Instructions</h1></u>
-<code><pre>
+```bash
 git clone https://github.com/ashwani-rathee/Twitter-Bot.git
 cd Twitter-Bot
 #Update the credentials you found from your Twitter Developer Website
 pip install requirements.txt
 python3 Twitter-Bot.py
-</pre></code>
+```
 <h1>Exploring GPT-2</h1>
 We fine-tuned the GPT-2 language model (345 and 124 million parameters) on quotes,shakespeare text to create AI versions of them.
 ###(Yet to DO)and then had the bots rewrite real tweets or complete tweets based on various prompts (short sentence starters like “The meaning of life is”).

@@ -15,9 +15,6 @@ pip install requirements.txt
 python3 Twitter-Bot.py
 </pre>
 </code>
-```python
-import numpy as np
-```
 <h1>Exploring GPT-2</h1>
 We fine-tuned the GPT-2 language model (345 and 124 million parameters) on quotes,shakespeare text to create AI versions of them.
 ###(Yet to DO)and then had the bots rewrite real tweets or complete tweets based on various prompts (short sentence starters like “The meaning of life is”).

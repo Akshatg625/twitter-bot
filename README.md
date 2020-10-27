@@ -7,7 +7,7 @@
     4) Find people and information about them
 </pre>
 <h1><u>Installing Instructions</h1></u>
-```shell
+```python
 git clone https://github.com/ashwani-rathee/Twitter-Bot.git
 cd Twitter-Bot
 #Update the credentials you found from your Twitter Developer Website

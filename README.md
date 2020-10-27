@@ -6,6 +6,11 @@
     3) Hashtags to search
     4) Find people and information about them
 </pre>
+<h1>Exploring GPT-2</h1>
+We fine-tuned the GPT-2 language model (345 and 124 million parameters) on quotes,shakespeare text to create AI versions of them.
+###(Yet to DO)and then had the bots rewrite real tweets or complete tweets based on various prompts (short sentence starters like “The meaning of life is”).
+
+Some of these are funny, some are profound, some are dark in a way that make us pause for a second.
 
 <h1>Contributors</h1>
 <ol>

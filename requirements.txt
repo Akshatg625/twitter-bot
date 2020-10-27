@@ -1,0 +1,10 @@
+tweepy
+pandas
+time
+csv
+numpy
+python
+gpt_2_simple
+datetime
+numpy
+

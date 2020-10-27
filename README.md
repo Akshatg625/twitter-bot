@@ -35,6 +35,7 @@ See ![Contributions.md](https://github.com/ashwani-rathee/Twitter-Bot/blob/main/
 <h1><u>References</u></h1>
 <ol>
     <li>Notebook by Max Woolf:https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce#scrollTo=H7LoMj4GA4n_</li>
-    <li>Blog Post:https://minimaxir.com/2020/01/twitter-gpt2-bot/<li>
+    <li>Blog Post:https://minimaxir.com/2020/01/twitter-gpt2-bot</li>
+    <li>https://minimaxir.com/2019/09/howto-gpt2/</li>
     <li>GPT-2 Twitter Bot:https://github.com/ShaneZhong/gpt-2-twitter-bot</li>
 </ol>

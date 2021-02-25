@@ -23,6 +23,23 @@ We fine-tuned the GPT-2 language model (345 and 124 million parameters) on quote
 ###(Yet to DO)and then had the bots rewrite real tweets or complete tweets based on various prompts (short sentence starters like “The meaning of life is”).
 
 Some of these are funny, some are profound, some are dark in a way that make us pause for a second.
+## On Ubuntu 20.04
+-mkdir gpt-2
+-cd gpt-2
+- conda create --name gpt-2 python=3.6
+- conda activate gpt-2
+- git clone https://github.com/openai/gpt-2.git && cd gpt-2
+- pip3 install tensorflow==1.12.0 #won't install as not available
+- ##instead install any tensorflow==1.x
+- #closest to original
+- pip3 install tensorflow==1.13.0rc1
+- #tensorflow.__version__
+- '1.13.0-rc1'
+- pip3 install -r requirements.txt
+- python3 download_model.py  modelname#124M,355M...
+
+
+
 
 <h1>Contributors</h1>
 See ![Contributions.md](https://github.com/ashwani-rathee/Twitter-Bot/blob/main/contributions.md)
